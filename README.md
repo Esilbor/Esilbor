@@ -2,7 +2,7 @@
 
 ## Who I am
 
-From the tropical shores of New Caledonia, through the youthful energy of Sydney to the vibrant city of Paris my journey has woven through the realms of English literature, Fashion Design and into the intricate elegance of programming. Alongside my studies at École 42 Paris I'm refining my skills in traditional lacemaking with one of France's finest artisan as I am on a quest to blend technology, traditional art, poetry and fashion. 
+From the tropical shores of New Caledonia, through the youthful energy of Sydney to the vibrant city of Paris my journey has woven through the realms of English literature, Fashion Design and the intricacy of programming. Alongside my studies at École 42 Paris I'm refining my skills in traditional lacemaking with one of France's finest artisan as I am on a quest to blend technology, traditional art, poetry and fashion. 
 
 <!--
 **Esilbor/Esilbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
