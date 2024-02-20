@@ -1,3 +1,5 @@
+![Banner](https://github.com/Esilbor/Esilbor/blob/main/Lacebanner.jpg)
+
 # Hello 👋, I'm Boris!
 
 ## Who I am
